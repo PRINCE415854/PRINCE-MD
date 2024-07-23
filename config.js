@@ -34,7 +34,7 @@ module.exports = {
 
 	VERSION: 'v4.4.1', 
 
-    SESSION_ID: process.env.SESSION_ID || '',
+    SESSION_ID: process.env.SESSION_ID || '07_23_H_E_R_M_I_T_YL_ZB5T',
 
     MODE: (process.env.MODE || 'private').toLowerCase(),
 
