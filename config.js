@@ -58,7 +58,7 @@ module.exports = {
 
     AUTOUNMUTE_MSG: process.env.AUTOUNMUTE_MSG || '_Group autounmuted!_\n_(Change this by setting var AUTOUNMUTE_MSG)_',
 
-    ANTILINK_MSG: process.env.ANTILINK_MSG || '_Link Not Allowed!_\n_(Change this by setting var ANTILINK_MSG)_',
+    ANTILINK_MSG: process.env.ANTILINK_MSG || '_*AA GYA TU JWAN HO KR*_\n_(Change this by setting var ANTILINK_MSG)_',
 
     BOT_INFO: process.env.BOT_INFO || 'ʜᴇʀᴍɪᴛ;PRINCE;923145269482;https://i.imgur.com/6oRG106.jpeg',
 
